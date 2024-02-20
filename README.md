@@ -12,7 +12,9 @@ Redux Thunk, asenkron eylemleri (örneğin, bir API isteğini işlemek) Redux ey
 - JSON-SERVER
 - Bootstrap
 
+# Ekran Görüntüsü
 
+![Redux Thunk](https://github.com/aydincansu1/ReduxThunk-Shop/assets/134061696/e29c5f5d-a870-45d9-95ad-8636610a08b8)
 
 
 # React Thunk
